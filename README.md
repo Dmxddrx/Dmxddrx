@@ -67,13 +67,9 @@ I am actively seeking opportunities to **apply my skills in real engineering env
 ---
 
 ## GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dmxddrx&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmxddrx&layout=compact&theme=radical&hide_border=true"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dmxddrx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmxddrx&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmxddrx&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 </div>
 
 ---

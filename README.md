@@ -66,11 +66,12 @@ I am actively seeking opportunities to **apply my skills in real engineering env
 
 ---
 
-## GitHub Stats
 <div align="center">
-  <img height="180em" src="https://dmxddrx-github-stats-e1tr1if9m-dmxddrxs-projects.vercel.app/api?username=Dmxddrx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://dmxddrx-github-stats-e1tr1if9m-dmxddrxs-projects.vercel.app/api/top-langs/?username=Dmxddrx&layout=compact&langs_count=8&hide_border=true"/>
+  <img height="150" src="https://dmxddrx-github-stats-e1tr1if9m-dmxddrxs-projects.vercel.app/api?username=Dmxddrx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <br>
+  <img height="150" src="https://dmxddrx-github-stats-e1tr1if9m-dmxddrxs-projects.vercel.app/api/top-langs/?username=Dmxddrx&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 </div>
+
 
 
 ---
@@ -83,11 +84,11 @@ I am actively seeking opportunities to **apply my skills in real engineering env
 ---
 
 ## Featured Projects
-- 🔧 **Omnidirectional Robot** – STM32 + ESP32 + NRF24L01 + MPU6500 for precise movement  
-- ⚡ **Motor Control System** – PWM, timers, safety logic, embedded C (STM32)  
-- 🌐 **IoT Monitoring Node** – ESP32, sensors, cloud dashboard for real-time monitoring  
-- 🛠️ **PCB Prototyping Projects** – Multi-layer PCB design in Altium & KiCad  
-- 📡 **IoT-enabled Sensor Network** – Low-power wireless communication systems  
+- **Omnidirectional Robot** – STM32 + ESP32 + NRF24L01 + MPU6500 for precise movement  
+- **Motor Control System** – PWM, timers, safety logic, embedded C (STM32)  
+- **IoT Monitoring Node** – ESP32, sensors, cloud dashboard for real-time monitoring  
+- **PCB Prototyping Projects** – Multi-layer PCB design in Altium & KiCad  
+- **IoT-enabled Sensor Network** – Low-power wireless communication systems  
 
 ---
 

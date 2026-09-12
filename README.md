@@ -1,6 +1,6 @@
 <!-- Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=22C55E&center=true&vCenter=true&width=940&lines=Hi,+I'm+Dinindu+Kaluarachchi;Electronic+Engineering+Student;Embedded+Systems+%7C+PCB+Design+%7C+IoT;Building+Real-World+Hardware+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=22C55E&center=true&vCenter=true&width=940&lines=Hi,+I'm+Dinindu+Kaluarachchi;Robotics+%26+IoT+Engineering+Intern;Embedded+Firmware+%7C+PCB+Design+%7C+Sensor+Fusion;Building+Production-Ready+Hardware+Solutions" alt="Typing SVG" />
 </div>
 
 <!-- Banner -->
@@ -11,28 +11,24 @@
 ---
 
 # Hi, I’m **Dinindu Kaluarachchi**
-### Electronic & Telecommunication Engineering Student • Embedded Systems • Hardware & PCB Design • IoT
+### Robotics & IoT Engineering Intern • Embedded Firmware • PCB Design • Full-Stack Hardware Integration
 
 ---
 
 ## About Me
-I am an **Electronic and Telecommunication Engineering student** at the **Institute of Technology, University of Moratuwa**, passionate about designing and building **practical electronic systems** that solve real-world problems.
+I am a final-year **Electronic and Telecommunication Engineering student** at the Institute of Technology, University of Moratuwa, and currently working as a **Robotics and IoT Engineering Intern at Entgra.io**. I specialize in taking hardware projects from schematic design to fully functioning, production-ready prototypes.
 
-My interests include **embedded systems, hardware engineering, PCB design, and IoT architecture**. I enjoy working close to the hardware layer—turning schematics into functioning prototypes.
+My core expertise lies in **bare-metal firmware development, multi-layer PCB design, sensor fusion, and full-stack IoT architecture**. I thrive working close to the hardware layer—manipulating registers, configuring DMA channels, and writing custom drivers for microcontrollers like STM32 and ESP32. 
 
-Alongside engineering, I have experience in **technical documentation, presentations, and graphic design**, and I continuously expand my programming skills through hands-on projects.
-
-I am actively seeking opportunities to **apply my skills in real engineering environments**, collaborate with professionals, and grow as a well-rounded **electronic engineer**.
+Beyond hardware, I bridge the gap to the software layer by developing local server environments, database pipelines, and computer vision scripts (OpenCV/MediaPipe) to interact with the physical world. I am actively building my portfolio of open-source embedded libraries and commercial-grade robotics.
 
 ---
 
 ## Career Interests
-- Embedded Systems & Firmware Development  
-- Electronic Hardware Design  
-- PCB Design & Prototyping  
-- IoT Systems & Device Architecture  
-- Automation & Control Systems  
-- Telecommunication & Signal-based Applications  
+- **Embedded Firmware Development:** Bare-metal C, register manipulation, custom hardware drivers.
+- **Production Robotics & Mechatronics:** Autonomous navigation algorithms, motor driver logic, sensor fusion.
+- **Advanced Hardware Design:** Multi-layer PCB design, automated circuitry, I2C/SPI optimization.
+- **Full-Stack IoT Systems:** Sensor mesh networks, local server deployment, real-time dashboard data visualization.
 
 ---
 
@@ -40,22 +36,39 @@ I am actively seeking opportunities to **apply my skills in real engineering env
 
 | Area | Tools & Technologies |
 |------|------------------------|
-| Embedded & Firmware | Embedded C, Microcontrollers (STM32, ESP32, Arduino) |
-| PCB Design | Altium Designer, KiCad |
-| IoT | IoT Architecture, Sensors, Wireless Modules |
-| Electronics | Analog & Digital Circuits, Power Electronics |
-| Testing & Debug | Multimeter, Oscilloscope, Logic Analyzer |
-| Software Tools | STM32 CUBE IDE |
-| Productivity | MS Office |
-| Design | Adobe Photoshop |
+| **Microcontrollers** | STM32 (F1, F4 Series), ESP32 (S3, C3), ESP8266, Arduino |
+| **Firmware & Code** | Embedded C, C++, Bare-metal hardware register control, DMA, Timers |
+| **PCB & Hardware** | Altium Designer, KiCad, Schematic layout, Logic Analyzers, Oscilloscopes |
+| **IoT & Networking** | Pure Wi-Fi stacks, Mesh networks, nRF24L01, I2C/SPI communication protocols |
+| **Software & Web** | Python (OpenCV, MediaPipe), PHP, MySQL, Tailwind CSS, Chart.js |
+| **Robotics & Motion** | Boustrophedon algorithms, Mecanum kinematics, IMU mapping (MPU9250) |
 
 ---
 
 ## Current Focus
-- Developing **embedded control systems**  
-- Designing **multi-layer PCBs**  
-- Building **IoT-enabled hardware prototypes**  
-- Improving **firmware reliability and performance**
+- Engineering a **production-level autonomous floor-cleaning robot** (STM32F407VET6).
+- Expanding my **open-source custom C-array font library** for fast microcontroller rendering.
+- Optimizing Wi-Fi radio stacks and hardware I2C routines for multi-node environmental monitoring systems.
+
+---
+
+## Featured Projects
+
+*   **Autonomous Floor-Cleaning Robot (Production Prototype)** 
+    *   *Tech Stack:* STM32F407VET6 (running at 168MHz), Embedded C.
+    *   *Details:* Designed raw firmware libraries and sensor-fusion logic grids integrating ultrasonic sensors, IR detectors, and wheel encoders. Implemented active obstacle-avoidance routing and a custom Boustrophedon motion coverage algorithm for commercial application.
+*   **ClimateNode_360 – Environmental Sensor Mesh Network**
+    *   *Tech Stack:* ESP32-S3 (Gateway), ESP32-C3 (Nodes), SHT30, GP2Y10, PHP, MySQL, Chart.js.
+    *   *Details:* Engineered a multi-node wireless network logging real-time environmental data via direct Wi-Fi links. Built an interactive web dashboard hosted on a local Linux virtual machine for real-time data tracking, utilizing hardware I2C muting to prioritize the Wi-Fi stack.
+*   **Omnidirectional Gesture-Controlled Vehicle**
+    *   *Tech Stack:* STM32F103C8T6, Mecanum wheels, MPU9250 IMU, nRF24L01.
+    *   *Details:* Built a remote-controlled system relying on motor-driver vector logic for precise omnidirectional movement, entirely steered by a custom-built hand-gesture motion control glove.
+*   **Open-Source Microcontroller Font Library**
+    *   *Tech Stack:* C, STM32, ESP32 ecosystems.
+    *   *Details:* Developed and published a custom font library on GitHub optimized for fast, cross-platform microcontroller rendering using a highly efficient C-array scaling architecture.
+*   **Smart Waste Management System**
+    *   *Tech Stack:* Arduino C++, automated motor actuators.
+    *   *Details:* Designed the complete architectural logic and built a multi-stage system capable of sorting dry, wet, and metallic materials using integrated sensor modules.
 
 ---
 
@@ -72,23 +85,12 @@ I am actively seeking opportunities to **apply my skills in real engineering env
   <img height="150" src="https://dmxddrx-github-stats-e1tr1if9m-dmxddrxs-projects.vercel.app/api/top-langs/?username=Dmxddrx"/>
 </div>
 
-
-
 ---
 
 ## GitHub Streak Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmxddrx&theme=radical&hide_border=true&background=0D1117"/>
 </div>
-
----
-
-## Featured Projects
-- **Omnidirectional Robot** – STM32 + ESP32 + NRF24L01 + MPU6500 for precise movement  
-- **Motor Control System** – PWM, timers, safety logic, embedded C (STM32)  
-- **IoT Monitoring Node** – ESP32, sensors, cloud dashboard for real-time monitoring  
-- **PCB Prototyping Projects** – Multi-layer PCB design in Altium & KiCad  
-- **IoT-enabled Sensor Network** – Low-power wireless communication systems  
 
 ---
 

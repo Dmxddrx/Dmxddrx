@@ -1,4 +1,12 @@
- <div align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1600&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Dinindu+Kaluarachchi;Embedded+Systems+%7C+Robotics+%7C+IoT;Firmware+Development+%7C+Hardware+Integration;Building+Practical+Engineering+Solutions" alt="Typing introduction" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:16A34A&height=175&section=header&text=Welcome%20to%20My%20Engineering%20Space&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated green wave header" />
+</div>
+
+<div align="center">
   <h1>Hi, I'm Dinindu Kaluarachchi</h1>
   <h3>Embedded Systems · Robotics · IoT · Firmware Development</h3>
   <p>
@@ -112,4 +120,11 @@ Designed a multi-stage waste-sorting system that identifies and separates dry, w
 
 <div align="center">
   <sub>Interested in embedded systems, robotics, and practical engineering. Let's build something useful.</sub>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dmxddrx&label=Profile%20Views&color=16A34A&style=flat-square" alt="Profile views" />
+  <br><br>
+  <h3>Let's design, build, and innovate together.</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:0D1117&height=110&section=footer" width="100%" alt="Animated green wave footer" />
 </div>
